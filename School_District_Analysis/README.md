@@ -34,3 +34,4 @@ Thomas High School is still #2 behind only Cabrera High School, but the gap betw
 
 
 ## Summary
+After removing the scores for the ninth graders at Thomas High School, there was not much of an impact on results. In general the averages and passing percentages went down, but the school is still #2 in overall passing percentage. The biggest drop was in the reading score averages for ninth graders, which dropped by 0.87%. The smallest change was average reading score for the entire district, which was impacted by less than 0.001%. Notably, scores by school spending, scores by school size, and scores by school types were all unchanged with 1 decimal point of rounding. This suggests that the initial analysis painted a pretty good picture even with the suspicous data included. Overall the math scores went down by less than the reading scores did.
