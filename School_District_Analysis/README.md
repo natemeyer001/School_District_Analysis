@@ -5,6 +5,7 @@ A high school budgeting board wants aggregated standardized test scores for high
 
 ## Resources
 Data Source: schools_complete.csv, students_complete.csv
+
 Software: Jupyter 6.3.0, Python 3.7.2
 
 ## Results
